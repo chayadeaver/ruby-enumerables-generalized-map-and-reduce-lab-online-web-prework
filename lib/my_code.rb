@@ -7,4 +7,4 @@ def map(source_array)
   end
 end
   
-map([1,2,3,-9])  {|n| n* -1}
+# map([1,2,3,-9])  {|n| n* -1}
