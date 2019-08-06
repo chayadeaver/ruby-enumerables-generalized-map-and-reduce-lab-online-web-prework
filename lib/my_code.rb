@@ -10,10 +10,13 @@ end
   
 def reduce(source_array,starting_point=nil)
   if starting_point
-    memo = 
+    memo = starting_point
+    i = 0 
   else
-end
+    memo = source_array[0]
+    i = 1 
+  end
     while i < source_array.length do
-    
+      
     end
 end
