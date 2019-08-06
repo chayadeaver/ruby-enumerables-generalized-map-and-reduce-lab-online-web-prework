@@ -9,7 +9,11 @@ def map(source_array)
 end
   
 def reduce(source_array,starting_point=nil)
-  while i < source_array.length do
+  if starting_point
+    memo = 
+  else
+end
+    while i < source_array.length do
     
-  end
+    end
 end
